@@ -11,7 +11,7 @@ This has been adapted ever so slightly from Natasha's work at
 
     mkdir -p ~/Library/iTunes/Scripts
     cd ~/Library/iTunes/Scripts
-    curl -o 'Change Play Count.scpt' https://github.com/davidjb/itunes-change-play-count/raw/master/Change%20Play%20Count.scpt
+    curl -L -o 'Change Play Count.scpt' https://github.com/davidjb/itunes-change-play-count/raw/master/Change%20Play%20Count.scpt
 
 iTunes doesn't even need restarting so you can just start using the script.
 
