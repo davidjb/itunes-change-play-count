@@ -15,6 +15,10 @@ This has been adapted ever so slightly from Natasha's work at
 
 iTunes doesn't even need restarting so you can just start using the script.
 
+Alternatively, if you want to clone this repo via Git, do that and then either
+drop the script into the `~/Library/iTunes/Scripts` directory or hard-link it
+there (iTunes doesn't support soft links).
+
 ## Usage
 
 1. Install the script.
@@ -26,8 +30,10 @@ iTunes doesn't even need restarting so you can just start using the script.
 ## Features
 
 * Allows changing of playcounts in iTunes
-* Prompts for input for each song; prompt dialog now defaults to the current
-  playcount to avoid accidental clearing of counts.
+* Prompts for input for each song
+* Prompt dialog now defaults to the current playcount to avoid accidental
+  clearing of counts
+* Prompt dialog now shows the artist for the given song to avoid confusion
 
 ## Contributing
 
