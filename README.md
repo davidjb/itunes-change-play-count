@@ -1,5 +1,9 @@
 # Change Play Count in iTunes via AppleScript
 
+This script works for iTunes on macOS by using AppleScript to prompt for a new
+playcount to set for any songs that are currently selected in the iTunes user
+interface.
+
 This has been adapted ever so slightly from Natasha's work at
 <http://www.chikaboo-designs.com/2016/01/26/applescripts-edit-your-itunes-play-count/>.
 
@@ -12,10 +16,6 @@ This has been adapted ever so slightly from Natasha's work at
 iTunes doesn't even need restarting so you can just start using the script.
 
 ## Usage
-
-This script works by using AppleScript to prompt for a new playcount to set
-for any songs that are currently selected in the iTunes user interface.  So in
-short:
 
 1. Install the script.
 1. Select the track(s) you wish to change playcounts for.
