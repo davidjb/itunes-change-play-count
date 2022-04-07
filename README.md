@@ -19,6 +19,10 @@ Alternatively, if you want to clone this repo via Git, do that and then either
 drop the script into the `~/Library/Music/Scripts` directory or hard-link it
 there (Music.app doesn't support soft links).
 
+If you make changes later (such as downloading a new version of this script),
+then note that Music.app seems to cache it so ``rm`` the existing script first
+and reinstall.
+
 An [older
 version](https://github.com/davidjb/itunes-change-play-count/commit/1ea469e9b6e6c84ba3316a64194173acc92a9278)
 of this script works with iTunes – Apple just changed the name, thankfully.
