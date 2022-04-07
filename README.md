@@ -26,6 +26,7 @@ and reinstall.
 An [older
 version](https://github.com/davidjb/itunes-change-play-count/commit/1ea469e9b6e6c84ba3316a64194173acc92a9278)
 of this script works with iTunes – Apple just changed the name, thankfully.
+Note that this older version is no longer maintained.
 
 ## Usage
 
