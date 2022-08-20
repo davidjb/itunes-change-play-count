@@ -28,6 +28,11 @@ version](https://github.com/davidjb/itunes-change-play-count/commit/1ea469e9b6e6
 of this script works with iTunes – Apple just changed the name, thankfully.
 Note that this older version is no longer maintained.
 
+### Uninstall
+
+To uninstall, delete the script file (or symlink) from
+`~/Library/Music/Scripts` and restart Music.app. 
+
 ## Usage
 
 1. Install the script.
